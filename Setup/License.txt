@@ -1,0 +1,17 @@
+License Agreement
+
+The License Agreement applies to the DC AppProtector full version as well as the DC AppProtector demo version. Those who download DC AppProtector demo version have a right to evaluate the software in order to determine whether to purchase it or not. The demo is licensed to run on one machine only. The DC AppProtector demo should under no circumstances be used to produce models for commercial use, or for other purposes than evaluation. EgyFirst can at any time terminate the license agreement for the DC AppProtector demo, in such event, you must destroy all copies of the DC AppProtector. The demo version has a time-limitation of 30 days, after which it will automatically expire. 
+
+This License Agreement is a legal agreement between you (either an individual or a single entity) and EgyFirst Software, Inc, for the DC AppProtector, which includes computer software as well as associated tutorial  and electronic documentation. By installing, copying, or otherwise using DC AppProtector, you agree to be bound by the terms of this License Agreement. If you do not agree to the terms of this License Agreement, you may not install or use DC AppProtector. All rights not expressly granted herein are reserved by EgyFirst Software, Inc. 
+
+The full version is licensed to run on one machine only which you registered with us. we take a fingerprint of your processor id only; thus any other peripheral replacement (including hard disks) would not affect your machineprint.
+You may not reverse engineer, decompile, or disassemble DC AppProtector.
+No Separation of Components: DC AppProtector is licensed as a single product and neither the software or any update may be separated for use by more than one user at a time. You may not rent, lease or lend DC AppProtector. Without prejudice to any other rights, EgyFirst may terminate this License Agreement if you fail to comply with the terms and conditions of this License Agreement. In such event, you must destroy all copies of DC AppProtector. 
+
+
+
+
+
+ 
+
+

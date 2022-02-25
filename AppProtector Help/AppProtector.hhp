@@ -1,0 +1,35 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=DC AppProtector v3.5.chm
+Contents file=Table of Contents.hhc
+Default topic=DynamicComponents AppProtector.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x409 English (United States)
+Title=DC Application Protector Help
+
+
+[FILES]
+Contact us.htm
+Deploying AppProtector.htm
+DynamicComponents AppProtector.htm
+Features.htm
+How to order.htm
+How to Register your Copy.htm
+Including DC.AppProtector.htm
+Installing AppProtector COM.htm
+License.htm
+Overview.htm
+SetAlgorithms.htm
+SetInformation.htm
+SetLicense.htm
+ShowAuthor.htm
+System Requirements.htm
+Tutorial.htm
+NotLicensed.htm
+SetProductKeys.htm
+RegistrationKey.htm
+
+[INFOTYPES]
+

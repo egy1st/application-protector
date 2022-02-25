@@ -1,0 +1,4 @@
+In the Build menu, select Configuration Manager. There you can change your Active solution configuration to Release instead of Debug.
+
+An alternative, is to get Properties of the project, select the Build tab, and select Release for the project's Configuration.
+

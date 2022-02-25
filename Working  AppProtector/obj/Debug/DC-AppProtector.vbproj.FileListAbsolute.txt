@@ -1,0 +1,38 @@
+G:\Application Protector\Copy of Tutorial AppProtector\bin\Debug\DC-AppProtector.exe
+G:\Application Protector\Copy of Tutorial AppProtector\bin\Debug\DC-AppProtector.pdb
+G:\Application Protector\Copy of Tutorial AppProtector\bin\Debug\DC-AppProtector.xml
+G:\Application Protector\Copy of Tutorial AppProtector\bin\Debug\System.Core.dll
+G:\Application Protector\Copy of Tutorial AppProtector\bin\Debug\System.Data.DataSetExtensions.dll
+G:\Application Protector\Copy of Tutorial AppProtector\bin\Debug\System.Data.dll
+G:\Application Protector\Copy of Tutorial AppProtector\bin\Debug\System.Deployment.dll
+G:\Application Protector\Copy of Tutorial AppProtector\bin\Debug\System.dll
+G:\Application Protector\Copy of Tutorial AppProtector\bin\Debug\System.Drawing.dll
+G:\Application Protector\Copy of Tutorial AppProtector\bin\Debug\System.Windows.Forms.dll
+G:\Application Protector\Copy of Tutorial AppProtector\bin\Debug\System.Xml.dll
+G:\Application Protector\Copy of Tutorial AppProtector\bin\Debug\System.Xml.Linq.dll
+G:\Application Protector\Copy of Tutorial AppProtector\obj\Debug\ResolveAssemblyReference.cache
+G:\Application Protector\Copy of Tutorial AppProtector\obj\Debug\Form1.resources
+G:\Application Protector\Copy of Tutorial AppProtector\obj\Debug\Resources.resources
+G:\Application Protector\Copy of Tutorial AppProtector\obj\Debug\DC-AppProtector.vbproj.GenerateResource.Cache
+G:\Application Protector\Copy of Tutorial AppProtector\obj\Debug\DC-AppProtector.exe
+G:\Application Protector\Copy of Tutorial AppProtector\obj\Debug\DC-AppProtector.xml
+G:\Application Protector\Copy of Tutorial AppProtector\obj\Debug\DC-AppProtector.pdb
+G:\Application Protector\Working  AppProtector\bin\Debug\DC-AppProtector.exe
+G:\Application Protector\Working  AppProtector\bin\Debug\DC-AppProtector.pdb
+G:\Application Protector\Working  AppProtector\bin\Debug\DC-AppProtector.xml
+G:\Application Protector\Working  AppProtector\bin\Debug\System.Core.dll
+G:\Application Protector\Working  AppProtector\bin\Debug\System.Data.DataSetExtensions.dll
+G:\Application Protector\Working  AppProtector\bin\Debug\System.Data.dll
+G:\Application Protector\Working  AppProtector\bin\Debug\System.Deployment.dll
+G:\Application Protector\Working  AppProtector\bin\Debug\System.dll
+G:\Application Protector\Working  AppProtector\bin\Debug\System.Drawing.dll
+G:\Application Protector\Working  AppProtector\bin\Debug\System.Windows.Forms.dll
+G:\Application Protector\Working  AppProtector\bin\Debug\System.Xml.dll
+G:\Application Protector\Working  AppProtector\bin\Debug\System.Xml.Linq.dll
+G:\Application Protector\Working  AppProtector\obj\Debug\ResolveAssemblyReference.cache
+G:\Application Protector\Working  AppProtector\obj\Debug\Form1.resources
+G:\Application Protector\Working  AppProtector\obj\Debug\Resources.resources
+G:\Application Protector\Working  AppProtector\obj\Debug\DC-AppProtector.vbproj.GenerateResource.Cache
+G:\Application Protector\Working  AppProtector\obj\Debug\DC-AppProtector.exe
+G:\Application Protector\Working  AppProtector\obj\Debug\DC-AppProtector.xml
+G:\Application Protector\Working  AppProtector\obj\Debug\DC-AppProtector.pdb

@@ -1,0 +1,21 @@
+G:\Application Protector\Setup\Tutorials\Visual Studio 2008\bin\Debug\DC-AppProtector Tutorial.exe
+G:\Application Protector\Setup\Tutorials\Visual Studio 2008\bin\Debug\DC-AppProtector Tutorial.pdb
+G:\Application Protector\Setup\Tutorials\Visual Studio 2008\bin\Debug\DC-AppProtector Tutorial.xml
+G:\Application Protector\Setup\Tutorials\Visual Studio 2008\obj\Debug\ResolveAssemblyReference.cache
+G:\Application Protector\Setup\Tutorials\Visual Studio 2008\obj\Debug\Form1.resources
+G:\Application Protector\Setup\Tutorials\Visual Studio 2008\obj\Debug\Resources.resources
+G:\Application Protector\Setup\Tutorials\Visual Studio 2008\obj\Debug\DC-AppProtector Tutorial.vbproj.GenerateResource.Cache
+G:\Application Protector\Setup\Tutorials\Visual Studio 2008\obj\Debug\DC-AppProtector Tutorial.exe
+G:\Application Protector\Setup\Tutorials\Visual Studio 2008\obj\Debug\DC-AppProtector Tutorial.xml
+G:\Application Protector\Setup\Tutorials\Visual Studio 2008\obj\Debug\DC-AppProtector Tutorial.pdb
+G:\Application Protector\Setup\Tutorials\Visual Studio 2010\obj\Debug\DC-AppProtector Tutorial.exe
+G:\Application Protector\Setup\Tutorials\Visual Studio 2010\obj\Debug\DC-AppProtector Tutorial.xml
+G:\Application Protector\Setup\Tutorials\Visual Studio 2010\obj\Debug\DC-AppProtector Tutorial.pdb
+G:\Application Protector\Setup\Tutorials\Visual Studio 2010\bin\Debug\DC-AppProtector Tutorial.exe
+G:\Application Protector\Setup\Tutorials\Visual Studio 2010\bin\Debug\DC-AppProtector Tutorial.pdb
+G:\Application Protector\Setup\Tutorials\Visual Studio 2010\bin\Debug\DC-AppProtector Tutorial.xml
+G:\Application Protector\Setup\Tutorials\Visual Studio 2010\obj\Debug\ResolveAssemblyReference.cache
+G:\Application Protector\Setup\Tutorials\Visual Studio 2010\obj\Debug\Form1.resources
+G:\Application Protector\Setup\Tutorials\Visual Studio 2010\obj\Debug\Resources.resources
+G:\Application Protector\Setup\Tutorials\Visual Studio 2010\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Application Protector\Setup\Tutorials\Visual Studio 2010\obj\Debug\GenerateResource-ResGen.write.1.tlog

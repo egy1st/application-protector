@@ -1,0 +1,9 @@
+G:\Num2Text\Num2Text Register\bin\DC_AppProtector35_Registrar.exe
+G:\Num2Text\Num2Text Register\bin\DC_AppProtector35_Registrar.pdb
+G:\Num2Text\Num2Text Register\bin\DC_AppProtector35_Registrar.xml
+G:\Num2Text\Num2Text Register\obj\Debug\ResolveAssemblyReference.cache
+G:\Num2Text\Num2Text Register\obj\Debug\Form1.resources
+G:\Num2Text\Num2Text Register\obj\Debug\DC_Num2Text.vbproj.GenerateResource.Cache
+G:\Num2Text\Num2Text Register\obj\Debug\DC_AppProtector35_Registrar.exe
+G:\Num2Text\Num2Text Register\obj\Debug\DC_AppProtector35_Registrar.xml
+G:\Num2Text\Num2Text Register\obj\Debug\DC_AppProtector35_Registrar.pdb

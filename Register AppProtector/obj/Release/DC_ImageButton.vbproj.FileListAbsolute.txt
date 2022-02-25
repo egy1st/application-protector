@@ -1,0 +1,7 @@
+G:\Image Button\Register Image Button\bin\DC_ImageButton35_Registrar.exe
+G:\Image Button\Register Image Button\bin\DC_ImageButton35_Registrar.xml
+G:\Image Button\Register Image Button\obj\Release\ResolveAssemblyReference.cache
+G:\Image Button\Register Image Button\obj\Release\Form1.resources
+G:\Image Button\Register Image Button\obj\Release\DC_ImageButton.vbproj.GenerateResource.Cache
+G:\Image Button\Register Image Button\obj\Release\DC_ImageButton35_Registrar.exe
+G:\Image Button\Register Image Button\obj\Release\DC_ImageButton35_Registrar.xml

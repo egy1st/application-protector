@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<META content="Microsoft FrontPage 5.0" name=GENERATOR>
+<TITLE>SetInformation Function</TITLE>
+</HEAD>
+<BODY>
+<H1><FONT color=#000080>SetInformation Function<HR>
+</FONT></H1>
+<p>SetInformation function enables you to&nbsp; Define your customized message 
+appears on the protection dialog box.<br>
+it include 2 parameters</p>
+<ol>
+  <li>Product &amp; Company info</li>
+  <li>URL where customers can purchase your product by clicking Buy Now Button 
+  on the protection dialog box</li>
+</ol>
+<p><font color="#000080"><b>Syntax:</b></font></p>
+<p>SetInformation(ByVal BuyNow_URL As String, ByVal Message As String)</p>
+<p><b><font color="#000080">Example:</font></b></p>
+<p>Dim CompanyInfo As String<br>
+Dim buynow_URL As String</p>
+<p> CompanyInfo = &quot;Application Protector V. 3.5&quot; + vbCrLf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 'vbcrlf forces new line<br>
+  CompanyInfo += &quot;Powered by EgyFirst Software, Inc.&quot; + vbCrLf<br>
+  CompanyInfo += &quot;Free 30 Days Trial Version&quot;</p>
+<p> buynow_URL = &quot;http://www.mygoldensoft.com/ordernow.htm&quot;</p>
+<p> MyProtection.SetInformation(buynow_URL, CompanyInfo)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</BODY>
+</HTML>

@@ -1,0 +1,50 @@
+<html dir="rtl">
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Tutorial</title>
+</head>
+
+<body>
+
+<h1 dir="ltr"><span style="font-weight: 400"><font color="#000080">Tutorial</font></span></h1>
+<hr dir="ltr">
+<p dir="ltr">This tutorial describe all&nbsp; features supported by 
+DC.AppProtector</p>
+<p dir="ltr">also you can refer to the project example which installed by 
+default into C:\Program Files\Dynamic Components\Application Protector\<span style="font-weight: 400">Tutorial\</span></p>
+<p dir="ltr">This code should be in first form loaded in your project </p>
+<p dir="ltr"><font color="#000080">Private Sub TestForm_Load(ByVal sender As System.Object, ByVal e As 
+System.EventArgs) Handles MyBase.Load</font></p>
+<p dir="ltr">Dim MyProtection As New DynamicComponents.AppProtector()<br>
+Dim ProductId As String<br>
+Dim CompanyId As String<br>
+Dim CompanyInfo As String<br>
+Dim ProductVersion As String<br>
+Dim buynow_URL As String</p>
+<p dir="ltr">// Customize author message</p>
+<p dir="ltr">CompanyId = &quot;My Company&quot;<br>
+  ProductId = &quot;My Product&quot;<br>
+  ProductVersion = &quot;V. 1.0&quot;</p>
+<p dir="ltr"> CompanyInfo = &quot;My Product V. 1.0&quot; + vbCrLf 'vbcrlf forces new line<br>
+  CompanyInfo += &quot;Powered by My Company&quot; + vbCrLf<br>
+  CompanyInfo += &quot;Free 30 Days Trial Version&quot;</p>
+<p dir="ltr">buynow_URL = &quot;http://www.mygoldensoft.com/ordernow.htm&quot;</p>
+
+<p dir="ltr">// Code of Protection</p>
+<p dir="ltr">MyProtection.<a href="SetProductKeys.htm">SetProductKeys</a>(CompanyId, ProductId, ProductVersion)<br>
+MyProtection.<a href="SetAlgorithms.htm">SetAlgorithms</a>(5555, 22, 99)<br>
+MyProtection.<a href="SetInformation.htm">SetInformation</a>(buynow_URL, CompanyInfo)<br>
+MyProtection.<a href="SetLicense.htm">SetLicense</a>(30) ' could be any number of days<br>
+MyProtection.<a href="setRegistrationKey.htm">setRegistrationKey</a>(&quot;0000-000-000-000-0000&quot;) ' replace with your purchased serial number once you get one<br>
+MyProtection.<a href="ShowAuthor.htm">ShowAuthor</a>() ' should be last line of your protection code<br>
+
+<p dir="ltr"><font color="#000080">End Sub</font></p>
+<p dir="ltr">&nbsp;</p>
+
+</body>
+
+</html>

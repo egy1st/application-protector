@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<META content="Microsoft FrontPage 5.0" name=GENERATOR>
+<TITLE>SetAlgorithms Function</TITLE>
+</HEAD>
+<BODY>
+<H1><FONT color=#000080>SetAlgorithms Function</FONT></h1>
+<HR>
+<p>Encryption Algorithms define the method DC.AppProtecor adopts to generate its 
+activation keys related to it.</p>
+<p><font color="#000080">DC.AppProtecor </font>has 3 levels of encryption 
+algorithms </p>
+<ol>
+  <li>First level has 6000 choices&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  (must be between 1000 and 7000)</li>
+  <li>Second&nbsp; level has 90 choices&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  (must be between 10 and 99)</li>
+  <li>Third&nbsp; level has 90 choices&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  (must be between 10 and 99)</li>
+
+
+  <br>
+if you develop more than one product and protect 
+    them all with the same DC.AppProtector, then&nbsp; every product&nbsp; must&nbsp; 
+    have unique combination of encryption 
+algorithms.<br>
+    So first product may have algorithms like (1234, 56, 78) <br>
+    and second product may have algorithms like (1234, 56, 77)<br>
+    and third product may have algorithms like (5555, 56, 77) <br>
+</ol>
+<p><font color="#000080"><b>Syntax:</b></font></p>
+<p>&nbsp;SetAlgorithms(ByVal int_Algorithms1 As Integer, ByVal int_Algorithms2 
+As Integer, ByVal int_Algorithms3 As Integer,  ByVal str_Algorithms4 As string)</p>
+<p><b><font color="#000080">Example:</font></b></p>
+<p>SetAlgorithms(1111, 22, 33)</p>
+<p>&nbsp;</p>
+</BODY>
+</HTML>

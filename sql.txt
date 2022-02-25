@@ -1,0 +1,83 @@
+-- phpMyAdmin SQL Dump
+-- version 2.8.0.1
+-- http://www.phpmyadmin.net
+-- 
+-- Host: custsql-pow11
+-- Generation Time: Jul 25, 2012 at 06:56 PM
+-- Server version: 5.0.91
+-- PHP Version: 4.4.9
+-- 
+-- Database: `protection`
+-- 
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `notifications`
+-- 
+
+CREATE TABLE `notifications` (
+  `companyid` varchar(64) NOT NULL,
+  `productid` varchar(64) NOT NULL,
+  `version` varchar(16) NOT NULL,
+  `initdate` date NOT NULL,
+  `inittime` time NOT NULL,
+  `type` varchar(32) NOT NULL,
+  `reseller` varchar(32) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+-- 
+-- Dumping data for table `notifications`
+-- 
+
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `purchase`
+-- 
+
+CREATE TABLE `purchase` (
+  `companyid` varchar(64) NOT NULL,
+  `productid` varchar(64) NOT NULL,
+  `version` varchar(16) NOT NULL,
+  `initdate` date NOT NULL,
+  `inittime` time NOT NULL,
+  `fingerprint` varchar(32) NOT NULL,
+  `machineprint` varchar(32) NOT NULL,
+  `serial` varchar(21) NOT NULL,
+  `name` varchar(32) NOT NULL,
+  `email` varchar(32) NOT NULL,
+  `tries` tinyint(4) NOT NULL,
+  `reseller` varchar(32) NOT NULL,
+  PRIMARY KEY  (`fingerprint`,`serial`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+-- 
+-- Dumping data for table `purchase`
+-- 
+
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `registration`
+-- 
+
+CREATE TABLE `registration` (
+  `companyid` varchar(64) NOT NULL,
+  `productid` varchar(64) NOT NULL,
+  `version` varchar(16) NOT NULL,
+  `initdate` date NOT NULL,
+  `inittime` time NOT NULL,
+  `fingerprint` varchar(32) NOT NULL,
+  `machineprint` varchar(32) NOT NULL,
+  `tries` tinyint(4) NOT NULL,
+  `reseller` varchar(32) NOT NULL,
+  PRIMARY KEY  (`fingerprint`,`machineprint`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+-- 
+-- Dumping data for table `registration`
+-- 
+

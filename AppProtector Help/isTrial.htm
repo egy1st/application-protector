@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<META content="Microsoft FrontPage 5.0" name=GENERATOR>
+<TITLE>NotLicensed</TITLE>
+</HEAD>
+<BODY>
+<H1><FONT color=#000080>NotLicensed<HR>
+</FONT></H1>
+<p>NotLicensed is public variable indicates  the state of your product license, so 
+you can do the proper action <br>
+it will be True if&nbsp; the protected product is not registered&nbsp; or within trial 
+period .</p>
+<p><font color="#000080"><b>Syntax</b></font>:</p>
+<p>Public NotLicensed As Boolean = False</p>
+<p>&nbsp;</p>
+<p><font color="#000080"><b>Example</b>:</font></p>
+<p>Dim MyProtection As New DynamicComponents.AppProtector()</p>
+<p>If&nbsp; MyProtection.NotLicensed Then Exit Sub</p>
+<p>&nbsp;</p>
+<p><font color="#000080"><b>Note:</b></font></p>
+<p>There is no need to end your application programmaticaly with the aid of&nbsp; detecting the value NotLicensed, as AppProtector exits application autmatically when trial perid ends.</p>
+<p><br>
+&nbsp;</p>
+</BODY>
+</HTML>

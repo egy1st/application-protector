@@ -1,0 +1,8 @@
+G:\Application Protector\AppProtector-Register\bin\DC_AppProtector35_Registrar.exe
+G:\Application Protector\AppProtector-Register\bin\DC_AppProtector35_Registrar.xml
+G:\Application Protector\AppProtector-Register\obj\Release\ResolveAssemblyReference.cache
+G:\Application Protector\AppProtector-Register\obj\Release\DynamicComponents.AppProtector.resources
+G:\Application Protector\AppProtector-Register\obj\Release\Form1.resources
+G:\Application Protector\AppProtector-Register\obj\Release\DC_AppProtector.vbproj.GenerateResource.Cache
+G:\Application Protector\AppProtector-Register\obj\Release\DC_AppProtector35_Registrar.exe
+G:\Application Protector\AppProtector-Register\obj\Release\DC_AppProtector35_Registrar.xml

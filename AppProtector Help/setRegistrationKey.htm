@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<META content="Microsoft FrontPage 5.0" name=GENERATOR>
+<TITLE>SetLicense Function</TITLE>
+</HEAD>
+<BODY>
+<H1><FONT color=#000080>setRegistrationKey Function
+    <HR>
+</FONT></H1>
+<p><FONT color=#000080>setRegistrationKey</FONT> Function enables you to set  your purchased serial number, to get a complete use of your software. if you deployed an application that use Dc AppProtector without setting your registration key, this will result in an annoying popup screen.<br>
+</p>
+<p><font color="#000080"><b>Syntax:</b></font></p>
+<p>Public Sub setRegistrationKey(ByVal myKey As String)</p>
+<p><b><font color="#000080">Example:</font></b></p>
+<p>oProtection.setRegistrationKey(&quot;0000-000-000-000-0000&quot;)</p>
+<p>&nbsp;</p>
+<p><b><font color="#000080">Note:</font></b></p>
+<p>This function should be used immediately after your initiate your instance of DC AppProtector</p>
+<p><b><font color="#000080">Example:</font></b></p>
+<p>Dim MyProtection As New DynamicComponents.AppProtector()</p>
+<p>MyProtection.setRegistrationKey(&quot;0000-000-000-000-0000&quot;) ' replace with your purchased serial number once you get one</p>
+<p>MyProtection.SetAlgorithms(5555, 22, 99)</p>
+<p>MyProtection.ShowAuthor() </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</BODY>
+</HTML>

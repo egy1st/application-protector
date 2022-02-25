@@ -1,0 +1,22 @@
+G:\Image Button\Tutorial Image Button\obj\Debug\ResolveAssemblyReference.cache
+G:\Image Button\Tutorial Image Button\obj\Debug\DC-ImageButton Tutorial.vbproj.GenerateResource.Cache
+G:\Image Button\Tutorial Image Button\bin\Debug\DC-ImageButton Tutorial.exe
+G:\Image Button\Tutorial Image Button\bin\Debug\DC-ImageButton Tutorial.pdb
+G:\Image Button\Tutorial Image Button\bin\Debug\DC-ImageButton Tutorial.xml
+G:\Image Button\Tutorial Image Button\bin\Debug\System.Core.dll
+G:\Image Button\Tutorial Image Button\bin\Debug\System.Data.DataSetExtensions.dll
+G:\Image Button\Tutorial Image Button\bin\Debug\System.Data.dll
+G:\Image Button\Tutorial Image Button\bin\Debug\System.Deployment.dll
+G:\Image Button\Tutorial Image Button\bin\Debug\System.dll
+G:\Image Button\Tutorial Image Button\bin\Debug\System.Drawing.dll
+G:\Image Button\Tutorial Image Button\bin\Debug\System.Windows.Forms.dll
+G:\Image Button\Tutorial Image Button\bin\Debug\System.Xml.dll
+G:\Image Button\Tutorial Image Button\bin\Debug\System.Xml.Linq.dll
+G:\Image Button\Tutorial Image Button\obj\Debug\Form1.resources
+G:\Image Button\Tutorial Image Button\obj\Debug\Resources.resources
+G:\Image Button\Tutorial Image Button\obj\Debug\DC-ImageButton Tutorial.exe
+G:\Image Button\Tutorial Image Button\obj\Debug\DC-ImageButton Tutorial.xml
+G:\Image Button\Tutorial Image Button\obj\Debug\DC-ImageButton Tutorial.pdb
+G:\Application Protector\Tutorial AppProtector\obj\Debug\DC-ImageButton Tutorial.exe
+G:\Application Protector\Tutorial AppProtector\obj\Debug\DC-ImageButton Tutorial.xml
+G:\Application Protector\Tutorial AppProtector\obj\Debug\DC-ImageButton Tutorial.pdb

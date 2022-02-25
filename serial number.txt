@@ -1,0 +1,1 @@
+You can find it under HKEY_LOCAL_MACHINE\SYSTEM\MountedDevices and the key name is \DosDevices\C: (assuming that the C: drive is the main system drive - which is not the case in some very rare cases, but then you can check for what the system drive is and use the appropriate key).

@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<META content="Microsoft FrontPage 5.0" name=GENERATOR>
+<TITLE>Features</TITLE>
+</HEAD>
+<BODY>
+<H1><FONT color=#000080>Features
+<HR>
+</FONT></H1>
+<P>Few&nbsp; Lines to add in your Form_Load event&nbsp; and you will get full
+<font face="Times New Roman" size="3">secure software protection system.</font></P>
+<P><FONT color=#000080><STRONG>You can:</STRONG></FONT></P>
+<UL>
+  <LI>Define your multi level encryption algorithm.
+  <LI>Define your Free Trail 
+  days limit.
+  <LI>Define your customized message appears on protection dialog box. 
+  <LI>Define your URL where customers can purchase your product.</UL>
+<FONT 
+size=2>
+<P><FONT color=#000080><STRONG>Example:</STRONG></FONT></P>
+<p>Dim MyProtection As New DynamicComponents.AppProtector()<br>
+Dim ProductId As String<br>
+Dim CompanyId As String<br>
+Dim CompanyInfo As String<br>
+Dim ProductVersion As String<br>
+Dim buynow_URL As String</p>
+<p> CompanyId = &quot;EgyFirst Software, Inc.&quot;<br>
+  ProductId = &quot;Application Protector&quot;<br>
+  ProductVersion = &quot;V. 3.14&quot;</p>
+<p> CompanyInfo = &quot;Application Protector V. 3.5&quot; + vbCrLf 'vbcrlf forces new line<br>
+  CompanyInfo += &quot;Powered by EgyFirst Software, Inc.&quot; + vbCrLf<br>
+  CompanyInfo += &quot;Free 30 Days Trial Version&quot;</p>
+<p> buynow_URL = &quot;http://www.mygoldensoft.com/ordernow.htm&quot;</p>
+<p> MyProtection.<a href="SetProductKeys.htm">SetProductKeys</a>(CompanyId, ProductId, ProductVersion)<br>
+  MyProtection.<a href="SetAlgorithms.htm">SetAlgorithms</a>(4444, 22, 99)<br>
+  MyProtection.<a href="SetInformation.htm">SetInformation</a>(buynow_URL, CompanyInfo)<br>
+  MyProtection.<a href="SetLicense.htm">SetLicense</a>(30) ' could be any number of days<br>
+  MyProtection.<a href="ShowAuthor.htm">ShowAuthor</a>() ' should be last line of your protection code<br>
+</p>
+<p>Now you can generate unlimited number of&nbsp; activation keys using
+  <a href="Activation%20Key.htm">Activation Key Utility</a></p>
+</BODY>
+</HTML>

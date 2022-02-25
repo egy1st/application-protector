@@ -1,0 +1,14 @@
+G:\Num2Text\Num2Text Register\obj\Release\ResolveAssemblyReference.cache
+G:\Num2Text\Num2Text Register\obj\Release\Form1.resources
+G:\Num2Text\Num2Text Register\obj\Release\DC_Num2Text.vbproj.GenerateResource.Cache
+G:\Num2Text\Num2Text Register\bin\DC_Number2text35_Registrar.exe
+G:\Num2Text\Num2Text Register\bin\DC_Number2text35_Registrar.xml
+G:\Num2Text\Num2Text Register\obj\Release\DC_Number2text35_Registrar.exe
+G:\Num2Text\Num2Text Register\obj\Release\DC_Number2text35_Registrar.xml
+G:\Form Flipper\Form Flipper Register\obj\Release\DC_Number2text35_Registrar.exe
+G:\Form Flipper\Form Flipper Register\obj\Release\DC_Number2text35_Registrar.xml
+G:\Form Flipper\Form Flipper Register\bin\DC_Number2text35_Registrar.exe
+G:\Form Flipper\Form Flipper Register\bin\DC_Number2text35_Registrar.xml
+G:\Form Flipper\Form Flipper Register\obj\Release\ResolveAssemblyReference.cache
+G:\Form Flipper\Form Flipper Register\obj\Release\Form1.resources
+G:\Form Flipper\Form Flipper Register\obj\Release\DC_Num2Text.vbproj.GenerateResource.Cache
