@@ -1,0 +1,17 @@
+G:\EgyFirst ActivationKey\obj\Debug\ActivationKey.exe
+G:\EgyFirst ActivationKey\obj\Debug\ActivationKey.pdb
+G:\EgyFirst ActivationKey\bin\ActivationKey.exe
+G:\EgyFirst ActivationKey\bin\ActivationKey.pdb
+G:\EgyFirst ActivationKey\bin\ActivationKey.xml
+G:\EgyFirst ActivationKey\obj\Debug\ResolveAssemblyReference.cache
+G:\EgyFirst ActivationKey\obj\Debug\ActivationKey.ActivationForm.resources
+G:\EgyFirst ActivationKey\obj\Debug\ActivationKey.vbproj.GenerateResource.Cache
+G:\EgyFirst ActivationKey\obj\Debug\ActivationKey.xml
+H:\EgyFirst ActivationKey\bin\ActivationKey.exe
+H:\EgyFirst ActivationKey\bin\ActivationKey.pdb
+H:\EgyFirst ActivationKey\bin\ActivationKey.xml
+H:\EgyFirst ActivationKey\obj\Debug\ActivationKey.ActivationForm.resources
+H:\EgyFirst ActivationKey\obj\Debug\ActivationKey.vbproj.GenerateResource.Cache
+H:\EgyFirst ActivationKey\obj\Debug\ActivationKey.exe
+H:\EgyFirst ActivationKey\obj\Debug\ActivationKey.xml
+H:\EgyFirst ActivationKey\obj\Debug\ActivationKey.pdb

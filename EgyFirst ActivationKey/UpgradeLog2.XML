@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ActivationKey">
+</Property><Property Name="Solution File" Value="H:\EgyFirst ActivationKey\ActivationKey.sln">
+</Property><Property Name="User Options File" Value="H:\EgyFirst ActivationKey\ActivationKey.suo">
+</Property><Property Name="Date" Value="Thursday, August 01, 2013">
+</Property><Property Name="Time" Value="12:03 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ActivationKey.sln" Description="File successfully backed up as H:\EgyFirst ActivationKey\Backup1\ActivationKey.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ActivationKey.suo" Description="File successfully backed up as H:\EgyFirst ActivationKey\Backup1\ActivationKey.suo">
+</Event><Event ErrorLevel="0" Project="ActivationKey" Source="ActivationKey.vbproj" Description="Project file successfully backed up as H:\EgyFirst ActivationKey\Backup1\ActivationKey.vbproj">
+</Event><Event ErrorLevel="0" Project="ActivationKey" Source="ActivationKey.vbproj.user" Description="Project user file successfully backed up as H:\EgyFirst ActivationKey\Backup1\ActivationKey.vbproj.user">
+</Event><Event ErrorLevel="0" Project="ActivationKey" Source="ActivationForm.vb" Description="File successfully backed up as H:\EgyFirst ActivationKey\Backup1\ActivationForm.vb">
+</Event><Event ErrorLevel="0" Project="ActivationKey" Source="AssemblyInfo.vb" Description="File successfully backed up as H:\EgyFirst ActivationKey\Backup1\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="ActivationKey" Source="Register.ICO" Description="File successfully backed up as H:\EgyFirst ActivationKey\Backup1\Register.ICO">
+</Event><Event ErrorLevel="0" Project="ActivationKey" Source="ActivationForm.resx" Description="File successfully backed up as H:\EgyFirst ActivationKey\Backup1\ActivationForm.resx">
+</Event><Event ErrorLevel="1" Project="ActivationKey" Source="ActivationKey.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="ActivationKey" Source="ActivationKey.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ActivationKey" Source="ActivationKey.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ActivationKey.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ActivationKey.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ActivationKey" Source="ActivationKey.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
